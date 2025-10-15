@@ -1,6 +1,6 @@
-name: create a comment on new issues
+name: Create a comment on new issues
 
-on: 
+on:
   issues:
     types: [opened]
 
